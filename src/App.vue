@@ -12,7 +12,7 @@
               </router-link>
             </a-menu-item>
             <a-menu-item>
-              <router-link to="/test">
+              <router-link to="/relation_database">
                 <span>关联数据库</span>
               </router-link>
             </a-menu-item>

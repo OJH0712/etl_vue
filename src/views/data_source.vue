@@ -2,7 +2,7 @@
     <a-layout style="padding: 24px 24px;">
         <a-layout-content style="margin: 16px 0;padding: 8px 16px;;background-color: #FFFFFF">
             <a-button type="primary">
-                <router-link to="/">添加数据源</router-link>
+                <router-link to="/add_datasource">添加数据源</router-link>
             </a-button>
         </a-layout-content>
         <div style="background-color: #FFFFFF">
